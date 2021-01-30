@@ -1,2 +1,3 @@
 # Other-repositories
-This is a repository with links to repositories that I was a contributor to.
+* <a href="https://github.com/MrDzik/AntiAFK">AntiAFK MC 1.12.2 plugin</a> (public)
+* <a href="https://github.com/MrDzik/MurderMystery">MurdrMystery MC 1.12.2 plugin</a> (private)
